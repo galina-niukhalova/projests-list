@@ -7,4 +7,6 @@ yarn start
 
 ### To build production version
 
-`yarn build`
+```
+yarn build
+```
