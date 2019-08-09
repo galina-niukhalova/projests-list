@@ -1,0 +1,22 @@
+{
+  "added_repositories": [
+    {
+      "id": 1,
+      "name": "repo1"
+    },
+    {
+      "id": 2,
+      "name": "repo2"
+    }
+  ],
+  "available_repositories": [
+    {
+      "id": 3,
+      "name": "repo3"
+    },
+    {
+      "id": 4,
+      "name": "repo4"
+    }
+  ]
+}
